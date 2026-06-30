@@ -1,6 +1,6 @@
 # Pulkit Chaudhary
 
-Data science, CS, math, and stats at Rutgers. Right now I'm doing AI engineering at Blaze (YC) and ML research at WINLAB. I build agentic systems and quant tooling, and I'm working toward quantitative research.
+Data science, Computer Science, math, and stats at Rutgers. Right now I'm doing AI engineering at Blaze (YC) and ML research at WINLAB. I build agentic systems and quant tooling, and I'm working toward quantitative research.
 
 ### Currently
 
